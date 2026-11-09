@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="shizutracker"
+version="1.0.0"
+displayName="Shizu Tracker"
+description='''Rastreador cliente de mobs: muestra direccion y distancia de todos los mobs cercanos y resalta jefes raros como Shizu (Tensura: Reincarnated).'''
+
+[[dependencies.shizutracker]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.shizutracker]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="CLIENT"

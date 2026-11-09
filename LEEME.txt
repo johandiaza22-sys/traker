@@ -1,0 +1,4 @@
+Sube TODO esto a un repositorio nuevo de GitHub (incluida la carpeta oculta .github).
+Luego ve a la pestana Actions -> build -> cuando termine (check verde), abajo en "Artifacts"
+descarga "shizutracker-mod". Dentro esta el .jar (usa el que NO termina en -sources).
+Ese .jar va en la carpeta mods (NeoForge 1.21.1).

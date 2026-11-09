@@ -1,0 +1,10 @@
+{
+  "key.categories.shizutracker": "Shizu Tracker",
+  "key.shizutracker.toggle": "Activar/desactivar rastreador",
+  "key.shizutracker.mode": "Cambiar modo (todos / especiales)",
+  "shizutracker.on": "Rastreador activado",
+  "shizutracker.off": "Rastreador desactivado",
+  "shizutracker.mode.all": "Modo: todos los mobs",
+  "shizutracker.mode.targets": "Modo: solo mobs especiales",
+  "shizutracker.hud.title": "Rastreador [%s] - %s mobs"
+}

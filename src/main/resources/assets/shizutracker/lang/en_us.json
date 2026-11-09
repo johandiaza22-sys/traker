@@ -1,0 +1,10 @@
+{
+  "key.categories.shizutracker": "Shizu Tracker",
+  "key.shizutracker.toggle": "Toggle tracker",
+  "key.shizutracker.mode": "Switch mode (all / special)",
+  "shizutracker.on": "Tracker enabled",
+  "shizutracker.off": "Tracker disabled",
+  "shizutracker.mode.all": "Mode: all mobs",
+  "shizutracker.mode.targets": "Mode: special mobs only",
+  "shizutracker.hud.title": "Tracker [%s] - %s mobs"
+}
